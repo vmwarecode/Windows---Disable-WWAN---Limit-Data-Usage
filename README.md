@@ -1,0 +1,1 @@
+# Windows---Disable-WWAN---Limit-Data-Usage
